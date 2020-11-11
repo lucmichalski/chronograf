@@ -2,6 +2,8 @@
 
 ### Bug Fixes
 
+1. [#5611](https://github.com/influxdata/chronograf/pull/5611): Avoid blinking "No Results" dashboard cells upon refresh.
+
 ### Features
 
 ### Other
